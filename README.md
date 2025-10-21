@@ -1,0 +1,2 @@
+<p align="center"><img src="HoopyHoop/assets/images/Untitled_design__2_-removebg-preview.png" width="300" height="300" /></p>
+<p align="center"><img src="HoopyHoop/assets/images/Your_paragraph_text__3_-removebg-preview.png" width="300" height="300" /></p>
